@@ -19,6 +19,7 @@ button {
 }
 
 .atlas-cta {
+    font-size: large;
     border-radius: 22px !important;
     padding: 12px 30px !important;
     font-weight: 700;
